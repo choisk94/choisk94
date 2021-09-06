@@ -1,19 +1,22 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FFD159&fontColor=363636&height=300&section=header&text=What%20a%20fun%20Coding!&fontSize=70&animation=twinkling" />  
 
-<h2>🐶Seokyung Choi🌻</h2>
+  <h2 style="font-weight:bolder;">Seokyung Choi</h2>
 <br><br>
 ⭐ Level : 🌱<br>
-✏️ Now learning "Spring Framework" <br>
+✏️ Now learning "Spring Boot" <br>
 ✨ Looking for somewhere I can grow up😏<br>
 <br>
-<hr>
-<h2>Out of Dev</h2>
+<br>
+<br>
+<h2>Who I am</h2>
 📌 South Korea<br>
 ✈️ Like Explore<br>
-🙏 Love yoga<br>
-🎵 Fan of Rose<br>
+🏃‍♀️ Yoga / Hiking / Walking<br>
 <br>
-<hr>
-<h2>Insise Dev</h2>
+<br>
+<br>
+<h2>Tech Stack👩‍💻</h2>
 
 <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <a><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp;
@@ -22,7 +25,10 @@
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp;
 <a><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp;
 <a><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp; 
+<a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp; 
+<a><img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/></a>&nbsp; 
 
+</div>
 
 
 
