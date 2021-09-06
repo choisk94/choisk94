@@ -27,7 +27,7 @@
   <br>
   <br>
   <h2>Study Log</h2>
-  <a><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp;
+  <a href="https://blog.naver.com/miro_tic"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp;
   
 </div>
 
