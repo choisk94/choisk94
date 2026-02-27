@@ -1,36 +1,49 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFD159&fontColor=363636&height=300&section=header&text=What%20a%20fun%20Coding!&fontSize=70&animation=twinkling" />
-  <h2 style="font-weight:bolder;">Seokyung Choi</h2>
-  <br><br>
-  ⭐ Level : 🌱<br>
-  ✏️ Now learning "Spring Boot" <br>
-  ✨ Looking for somewhere I can grow up😏<br>
-  <br>
-  <br>
-  <h2>Who I am</h2>
-  📌 South Korea<br>
-  ✈️ Like Explore<br>
-  🏃‍♀️ Yoga / Hiking / Walking<br>
-  <br>
-  <br>
-  <h2>Tech Stack👩‍💻</h2>
+<div style="font-family: &quot;Pretendard&quot;, sans-serif">
+  <h2 style="font-weight: bolder">최서경 Seokyung Choi</h2>
 
-  <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
-  <a><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp;
-  <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp;
-  <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
-  <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp;
-  <a><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp;
-  <a><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp; 
-  <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp; 
-  <a><img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/></a>&nbsp; 
-  <br>
-  <br>
-  <h2>Study Log</h2>
-  <a href="https://blog.naver.com/miro_tic"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp;
-  
+  <h3>Career</h3>
+  <ul>
+    <li style="list-style: none">
+      <b>피앤피시큐어</b>
+      <span style="font-size: smaller; margin-left: 4px">2022.06 -</span>
+    </li>
+    <li style="list-style: none">
+      <b>지란지교 S&C</b>
+      <span style="font-size: smaller; margin-left: 4px"
+        >2021.10 - 2022.05</span
+      >
+    </li>
+  </ul>
+  <h3>Tech Stack</h3>
+    <div style="margin-left: 12px; margin-bottom: 3px;">
+      <span style="line-height: 20px;"><b>FE</b></span>
+      <span style="margin-left: 4px">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=Pinia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+      </span>
+    </div>
+    <div style="margin-left: 12px; margin-bottom: 3px;">
+      <span style="line-height: 20px;"><b>BE</b></span>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MyBatis-D22128?style=flat-square&logo=MyBatis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JPA-3178C6?style=flat-square&logo=JPA&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=OpenSearch&logoColor=white"/>
+    </div>
+    <div style="margin-left: 12px; margin-bottom: 3px;">
+      <span style="line-height: 20px;"><b>VCS</b></span>
+      <img src="https://img.shields.io/badge/Git(GitLab)-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
+    </div>
+    <div style="margin-left: 12px;">
+      <span style="line-height: 20px;"><b>CI/CD</b></span>
+      <img src="https://img.shields.io/badge/Teamcity-000000?style=flat-square&logo=Teamcity&logoColor=white"/>
+    </div>
+
+  <h3>Blog</h3>
+  <a href="https://velog.io/@choiseo/posts"
+    ><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </div>
-
-
-
-
