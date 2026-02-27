@@ -1,5 +1,6 @@
 ### 최서경 Seokyung Choi
-*Web Developer in Security Domain__*
+*Developer in Security IT Co.</br>
+Vue.js based Front-end & Java/Spring Boot based Back-end.*
 #### Career
 피앤피시큐어 2022.06 -</br>
 지란지교 S&C 2021.10 - 2022.05
